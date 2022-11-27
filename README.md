@@ -4,29 +4,29 @@
 
 ### <b>Penjelasan Program<b>
 
-### Code program
-<img src="img/code.PNG" alt="imgcode" width="600" height="800">
+-   Code program
+<img src="img/code.PNG" alt="imgcode" width="1920" height="3000">
 
 1.  Pertama kita ketik l pada menu pilihan untuk melihat daftar nilai :
-<img src="img/output1.PNG" alt="img1" width="600" height="800">
+<img src="img/output1.PNG" alt="img1" width="578" height="280">
 
 2.  Kedua kita ketik 't' pada menu untuk menambahkan data baru :
-<img src="img/output2.PNG" alt="img2" width="600" height="800">
+<img src="img/output2.PNG" alt="img2" width="578" height="280">
 
     #   gambar inputan yang telah di tambahkan sebanyak 2 kali :
-<img src="img/output3.PNG" alt="img3" width="600" height="800">
+<img src="img/output3.PNG" alt="img3" width="600" height="280">
 
 3.  Ketiga kita ketik 'c' pada menu untuk mencari data :
-<img src="img/outputCari.PNG" alt="imgcari" width="600" height="800">
+<img src="img/outputCari.PNG" alt="imgcari" width="600" height="280">
 
 4.  Empat kita ketikan 'u' pada menu untuk mengubah data yang ada :
-<img src="img/outputUbah.PNG" alt="imgubah" width="600" height="800">
+<img src="img/outputUbah.PNG" alt="imgubah" width="600" height="280">
 
 5.  Kelima kita ketikan 'h' pada menu untuk menghapus data :
-<img src="img/outputHapus.PNG" alt="imghapus" width="600" height="800">
+<img src="img/outputHapus.PNG" alt="imghapus" width="600" height="280">
 
-### Flowchart
-<img src="img/flowchart.PNG" alt="imgflowchart" width="600" height="800">
+-   Flowchart
+<img src="img/flowchart.PNG" alt="imgflowchart" width="1400" height="800">
 
     # Note flowchart
     1   while True:
