@@ -5,7 +5,7 @@
 ### <b>Penjelasan Program<b>
 
 ### Code program
-<img src="img/code.PNG" alt="img22" width="1920" height="3000">
+<img src="img/code.PNG" alt="img22" width="2000" height="4000">
 
 1.  Pertama kita ketik l pada menu pilihan untuk melihat daftar nilai :
 <img src="img/output1.PNG" alt="img1" width="578" height="280">
