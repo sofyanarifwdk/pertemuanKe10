@@ -5,7 +5,7 @@
 ### <b>Penjelasan Program<b>
 
 ### Code program
-<img src="img/scrip1.PNG" alt="img22" width="2000" height="4000">
+![scrip1](https://user-images.githubusercontent.com/79274212/204124760-5cb61073-e4cc-414a-b806-b0fcd27fedea.png)
 
 1.  Pertama kita ketik l pada menu pilihan untuk melihat daftar nilai :
 <img src="img/output1.PNG" alt="img1" width="578" height="280">
@@ -26,7 +26,7 @@
 <img src="img/outputHapus.PNG" alt="imghapus" width="600" height="280">
 
 ### Flowchart
-<img src="img/flowchart.PNG" alt="imgflowchart" width="1400" height="800">
+![flowchart](https://user-images.githubusercontent.com/79274212/204124752-d8a8672b-b6eb-475b-99d6-99b97012397b.png)
 
     # Note flowchart
     1   while True:
