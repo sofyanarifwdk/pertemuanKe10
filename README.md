@@ -8,22 +8,22 @@
 ![scrip1](https://user-images.githubusercontent.com/79274212/204124760-5cb61073-e4cc-414a-b806-b0fcd27fedea.png)
 
 1.  Pertama kita ketik l pada menu pilihan untuk melihat daftar nilai :
-<img src="img/output1.PNG" alt="img1" width="578" height="280">
+<img src="img/output1.PNG" alt="img1" width="578" height="267">
 
 2.  Kedua kita ketik 't' pada menu untuk menambahkan data baru :
-<img src="img/output2.PNG" alt="img2" width="578" height="280">
+<img src="img/output2.PNG" alt="img2" width="578" height="267">
 
     #   gambar inputan yang telah di tambahkan sebanyak 2 kali :
 <img src="img/output3.PNG" alt="img3" width="600" height="280">
 
 3.  Ketiga kita ketik 'c' pada menu untuk mencari data :
-<img src="img/outputCari.PNG" alt="imgcari" width="600" height="280">
+<img src="img/outputCari.PNG" alt="imgcari" width="600" height="163">
 
 4.  Empat kita ketikan 'u' pada menu untuk mengubah data yang ada :
-<img src="img/outputUbah.PNG" alt="imgubah" width="600" height="280">
+<img src="img/outputUbah.PNG" alt="imgubah" width="650" height="442">
 
 5.  Kelima kita ketikan 'h' pada menu untuk menghapus data :
-<img src="img/outputHapus.PNG" alt="imghapus" width="600" height="280">
+<img src="img/outputHapus.PNG" alt="imghapus" width="600" height="205">
 
 ### Flowchart
 ![flowchart](https://user-images.githubusercontent.com/79274212/204124752-d8a8672b-b6eb-475b-99d6-99b97012397b.png)
